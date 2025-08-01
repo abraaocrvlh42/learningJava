@@ -1,0 +1,8 @@
+# pasta de build
+/target/
+# arquivos de configuração
+*.iml
+.idea/
+# arquivos temporários
+*.log
+out/
